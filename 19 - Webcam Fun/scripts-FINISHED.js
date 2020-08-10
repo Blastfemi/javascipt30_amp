@@ -10,7 +10,7 @@ function getVideo() {
       console.log(localMediaStream);
     
 //  DEPRECIATION : 
-//       The following has been depreceated by major browsers as of Chrome and Firefox.
+//       The following has been deprecated by major browsers as of Chrome and Firefox.
 //       video.src = window.URL.createObjectURL(localMediaStream);
 //       Please refer to these:
 //       Deprecated  - https://developer.mozilla.org/en-US/docs/Web/API/URL/createObjectURL
